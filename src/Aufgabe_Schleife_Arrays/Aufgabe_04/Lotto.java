@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * Dies ist die Dokumentation der Klasse Lotto. Lotto generiert Zufallszahlen für ein Lottospiel.
- * Der Benutzer gibt 6 Zhalen plus Zusatzzahl ein.
+ * Der Benutzer gibt 6 Zahlen plus Zusatzzahl ein.
  * Die Eingabe wird mit den Lottozahlen verglichen und der Gewinn wird ausgegeben.
  *
  * @author Daniel Halik
