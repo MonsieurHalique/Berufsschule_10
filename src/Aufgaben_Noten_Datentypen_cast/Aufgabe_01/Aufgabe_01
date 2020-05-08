@@ -1,0 +1,5 @@
+a)  Er rundet falsch
+b)  Erst auf double casten, plus 0.5, wieder auf int casten
+c)  Es schneidet die Nachkommazahlen ab
+d)  siehe b)
+e)  erst mal 100, int cast, durch 100 für zwei Nachkommastellen
