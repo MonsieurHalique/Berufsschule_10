@@ -1,6 +1,5 @@
 package Aufgabe_Schleife_Arrays.Aufgabe_05;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 /**

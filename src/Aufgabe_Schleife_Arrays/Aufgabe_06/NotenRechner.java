@@ -1,5 +1,11 @@
 package Aufgabe_Schleife_Arrays.Aufgabe_06;
 
+/**
+ * Dies ist die Dokumentation der Klasse NotenRechner. NotenRechner berechnet die Zeugnisnote
+ *
+ * @author Daniel Halik
+ * @version 1.0
+ */
 public class NotenRechner {
     /**
      * Attribute
