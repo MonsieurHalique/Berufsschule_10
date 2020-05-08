@@ -1,10 +1,12 @@
 package Aufgabe_Schleife_Arrays.Aufgabe_01;
 
 import java.util.Scanner;
+
 /**
  * Dies ist die Dokumentation der Klasse Tausch1. Tausch1 frägt den Benutzer
  * nach zwei Zahlen, die er dann vertauscht
- * @author  Daniel Halik
+ *
+ * @author Daniel Halik
  * @version 1.0
  */
 public class Tausch1 {

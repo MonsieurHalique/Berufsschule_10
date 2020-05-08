@@ -1,17 +1,19 @@
 package Aufgabe_Schleife_Arrays.Aufgabe_02;
 
 import java.util.Scanner;
+
 /**
  * Dies ist die Dokumentation der Klasse ArrayInput. ArrayInput erstellt ein Array und kann dieses Ausgeben.
  * Die Länge kann vom Benutzer eingegeben werden.
  * Der Inhalt vom Array wird vom Benutzer eingegeben.
  * Es kann zudem ein Vorhandenen Array übergeben werden.
- * @author  Daniel Halik
+ *
+ * @author Daniel Halik
  * @version 1.0
  */
 public class ArrayInput {
     /**
-     *Attribute
+     * Attribute
      */
     private static int[] arr;
     private static Scanner scan = new Scanner(System.in);

@@ -1,8 +1,10 @@
 package Aufgabe_Schleife_Arrays.Aufgabe_01;
+
 /**
  * Dies ist die Dokumentation der Klasse Tausch2. Tausch2 erstellt ein Array
  * und tauscht in dem Array zwei Zahlen
- * @author  Daniel Halik
+ *
+ * @author Daniel Halik
  * @version 1.0
  */
 public class Tausch2 {

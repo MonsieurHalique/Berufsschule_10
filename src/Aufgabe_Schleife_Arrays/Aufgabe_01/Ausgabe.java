@@ -1,8 +1,10 @@
 package Aufgabe_Schleife_Arrays.Aufgabe_01;
+
 /**
  * Dies ist die Dokumentation der Klasse Ausgabe. Ausgabe dient zur Ausgabe
  * zweier Zahlen
- * @author  Daniel Halik
+ *
+ * @author Daniel Halik
  * @version 1.0
  */
 public class Ausgabe {
